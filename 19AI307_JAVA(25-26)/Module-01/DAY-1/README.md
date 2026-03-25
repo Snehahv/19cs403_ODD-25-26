@@ -52,8 +52,8 @@ accessGranted = isRegistered && hasValidID && !isBlacklisted;
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V
+RegisterNumber:  212222040157
 */
 ```
 
