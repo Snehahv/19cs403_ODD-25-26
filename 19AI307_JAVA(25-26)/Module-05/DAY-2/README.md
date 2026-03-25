@@ -22,8 +22,8 @@ To write a Java program to serialize a collection of objects (like ArrayList) in
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V
+RegisterNumber: 212222040157
 */
 ```
 
