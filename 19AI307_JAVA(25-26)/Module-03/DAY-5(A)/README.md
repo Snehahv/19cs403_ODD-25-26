@@ -28,8 +28,8 @@ To demonstrate the use of a private inner class and access it through a method i
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V 
+RegisterNumber: 212222040157
 */
 ```
 
