@@ -44,8 +44,8 @@ To create a common interface WeatherBot and implement different bots to predict 
  ```
 /*
 Program to implement a Interface using Java
-Developed by:NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V 
+RegisterNumber: 212222040157
 */
 ```
 
