@@ -26,8 +26,8 @@ The program should accept book details from the user, store them inside a Librar
  ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V 
+RegisterNumber: 212222040157
 */
 ```
 
