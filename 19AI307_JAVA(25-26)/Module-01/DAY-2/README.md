@@ -40,8 +40,8 @@ To write a Java program that checks whether the entered pirate code is valid and
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V 
+RegisterNumber:  212222040157
 */
 ```
 
