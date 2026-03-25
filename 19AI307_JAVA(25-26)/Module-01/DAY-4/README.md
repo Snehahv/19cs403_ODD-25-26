@@ -32,9 +32,8 @@ To write a Java program that reads an array of integers and calculates the avera
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
-*/
+Developed by: SNEHA H V 
+RegisterNumber:  212222040157
 ```
 
 ## SOURCE CODE:
