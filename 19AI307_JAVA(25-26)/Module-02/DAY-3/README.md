@@ -24,8 +24,8 @@ To write a Java program that demonstrates the use of access specifiers, specific
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: NIXAN DASS A
-RegisterNumber:212222040109 
+Developed by: SNEHA H V 
+RegisterNumber:212222040157 
 */
 ```
 
