@@ -48,8 +48,8 @@ To simulate a shared print spooler using the Singleton pattern so all print jobs
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V 
+RegisterNumber: 212222040157
 */
 ```
 
