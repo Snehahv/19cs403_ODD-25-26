@@ -22,8 +22,8 @@ To read a thread name from the user and display the current thread’s name and 
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by:NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by:SNEHA H V 
+RegisterNumber: 212222040157
 */
 ```
 
