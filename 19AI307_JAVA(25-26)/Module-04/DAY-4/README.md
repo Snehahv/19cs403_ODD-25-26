@@ -41,8 +41,8 @@ To implement a Shape Drawing Tool using the Factory Pattern, where user-entered 
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: NIXAN DASS A
-RegisterNumber: 212222040109
+Developed by: SNEHA H V 
+RegisterNumber: 212222040157
 */
 ```
 
