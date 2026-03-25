@@ -18,8 +18,8 @@ To Read a file and reverse the order of words in each line.
  ```
 /*
 Program to implement a File Handling using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V 
+RegisterNumber: 212222040157
 */
 ```
 
