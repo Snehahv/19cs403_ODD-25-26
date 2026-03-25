@@ -28,8 +28,8 @@ To create a Vehicle class with subclasses Car and Bicycle and demonstrate method
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V 
+RegisterNumber:  212222040157
 */
 ```
 
