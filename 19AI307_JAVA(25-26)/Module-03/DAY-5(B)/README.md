@@ -28,8 +28,8 @@ To write a Java program that reverses a number using the Integer wrapper class a
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V 
+RegisterNumber: 212222040157
 */
 ```
 
