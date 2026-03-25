@@ -44,8 +44,8 @@ To create an abstract class GameScore and calculate final scores for different t
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: SNEHA H V 
+RegisterNumber: 212222040157
 */
 ```
 
